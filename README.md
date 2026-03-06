@@ -2,7 +2,6 @@
 
 Reinforcement learning for self-driving in  a 3D simulation (Created using UNITY-3D)
 
-
 ###  1. Requirements for the SelfDrive_AI Gym
 ------------
 
