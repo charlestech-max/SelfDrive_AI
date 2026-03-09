@@ -2,9 +2,9 @@
 
 Reinforcement learning for self-driving in  a 3D simulation (Created using UNITY-3D)
 
-
 ###  1. Requirements for the SelfDrive_AI Gym
 ------------
+
 
 You need Python 3.6 or later to run the simulation. (Note: the current environment is only supported in windows) Also, you can directly interact with the simulation by clicking the exe file and then by using W,A, S and D keys. 
 
